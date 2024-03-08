@@ -28,7 +28,7 @@ namespace AplicacionEmpleadosNomina.ModelL
             }
             catch (Exception e)
             {
-                Console.WriteLine("Error en el registro de los datos del empleado " + e);
+                Console.WriteLine("Fallo de registros  " + e);
                 return false;
             }
         }
