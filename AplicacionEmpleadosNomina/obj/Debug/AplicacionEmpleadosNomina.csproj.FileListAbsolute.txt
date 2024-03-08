@@ -1,0 +1,20 @@
+C:\Users\Jorge\source\repos\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\bin\Debug\AplicacionEmpleadosNomina.exe.config
+C:\Users\Jorge\source\repos\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\bin\Debug\AplicacionEmpleadosNomina.exe
+C:\Users\Jorge\source\repos\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\bin\Debug\AplicacionEmpleadosNomina.pdb
+C:\Users\Jorge\source\repos\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\obj\Debug\AplicacionEmpleadosNomina.csproj.AssemblyReference.cache
+C:\Users\Jorge\source\repos\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\obj\Debug\AplicacionEmpleadosNomina.Properties.Resources.resources
+C:\Users\Jorge\source\repos\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\obj\Debug\AplicacionEmpleadosNomina.EmpleadoVL.resources
+C:\Users\Jorge\source\repos\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\obj\Debug\AplicacionEmpleadosNomina.csproj.GenerateResource.cache
+C:\Users\Jorge\source\repos\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\obj\Debug\AplicacionEmpleadosNomina.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\source\repos\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\obj\Debug\AplicacionEmpleadosNomina.exe
+C:\Users\Jorge\source\repos\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\obj\Debug\AplicacionEmpleadosNomina.pdb
+C:\Users\Jorge\Desktop\Integracion de Software\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\obj\Debug\AplicacionEmpleadosNomina.csproj.AssemblyReference.cache
+C:\Users\Jorge\Desktop\Integracion de Software\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\obj\Debug\AplicacionEmpleadosNomina.Properties.Resources.resources
+C:\Users\Jorge\Desktop\Integracion de Software\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\obj\Debug\AplicacionEmpleadosNomina.EmpleadosVL.resources
+C:\Users\Jorge\Desktop\Integracion de Software\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\obj\Debug\AplicacionEmpleadosNomina.csproj.GenerateResource.cache
+C:\Users\Jorge\Desktop\Integracion de Software\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\obj\Debug\AplicacionEmpleadosNomina.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Integracion de Software\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\obj\Debug\AplicacionEmpleadosNomina.exe
+C:\Users\Jorge\Desktop\Integracion de Software\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\obj\Debug\AplicacionEmpleadosNomina.pdb
+C:\Users\Jorge\Desktop\Integracion de Software\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\bin\Debug\AplicacionEmpleadosNomina.exe.config
+C:\Users\Jorge\Desktop\Integracion de Software\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\bin\Debug\AplicacionEmpleadosNomina.exe
+C:\Users\Jorge\Desktop\Integracion de Software\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\bin\Debug\AplicacionEmpleadosNomina.pdb
